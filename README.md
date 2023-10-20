@@ -14,9 +14,9 @@ O código HTML é dividido em três seções principais, cada uma representando 
 
 ### Formulário de Login
 
-    Título: "Log in"
-    Campos: Nome de usuário, Senha, Captcha.
-    Botão "Log in" para enviar o formulário.
+- [ ] Título: "Log in"
+- [ ] Campos: Nome de usuário, Senha, Captcha.
+- [ ] Botão "Log in" para enviar o formulário.
 
 ### Formulário de Recuperação de Senha
 
